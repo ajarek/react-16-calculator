@@ -1,0 +1,8 @@
+.container{
+    width: 273px;
+    height: 548px;
+    box-shadow: 0px 0px 5px rgba(0,0,0,0.5);
+    background-color: #e5e5e5;
+    border-radius: 5px;
+    overflow: hidden;
+}
